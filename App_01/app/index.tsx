@@ -3,8 +3,6 @@ import {
   Text,
   View,
   Image,
-  Pressable,
-  Linking,
 } from "react-native";
 
 export default function App() {
