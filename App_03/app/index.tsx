@@ -1,5 +1,5 @@
 import { Text, View, Button } from "react-native";
-import { useState, useEffect } from "react";
+import {useState} from "react";
 
 export default function Index() {
   const [counterState, setCounterState] = useState(0);
